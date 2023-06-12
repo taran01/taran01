@@ -16,7 +16,7 @@ Repository: github.com/johndoe/simple-calculator
 Description: A basic calculator program written in Python. It takes user input for two numbers and performs simple arithmetic operations like addition, subtraction, multiplication, and division. This project helped me practice my Python programming skills.
 Key Technologies: Python -->
 
-# Learning Resources #
+<!-- # Learning Resources #
 HTML and CSS
 MDN Web Docs
 CSS-Tricks
@@ -30,12 +30,16 @@ Python.org
 Python Crash Course - Eric Matthes
 SQL
 W3Schools SQL Tutorial
-SQLZoo
+SQLZoo -->
 
 # Skills #
-HTML, CSS, JavaScript, Python, SQL
+* HTML
+* CSS
+* JavaScript
+* Python
+* SQL
 
-Problem Solving, Self-Motivated Learner, Attention to Detail
+Except that I'm pretty good at problem solving and have great attention to detail.
 
 # Education #
 Self-taught Beginner Developer
